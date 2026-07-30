@@ -39,6 +39,15 @@ User Name: sa
 Password:
 ```
 
+## Swagger / OpenAPI
+
+The application exposes OpenAPI documentation and a Swagger UI for exploring the API.
+
+```text
+http://localhost:8080/v3/api-docs
+http://localhost:8080/swagger-ui.html
+```
+
 ## Endpoints
 
 ```text
